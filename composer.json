@@ -1,0 +1,16 @@
+{
+    "name": "staconik/php-snapster-api",
+    "description": "PHP library for snapster.io",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stas Pazhoha",
+            "email": "staconik@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"SnapsterApi\\": "src/SnapsterApi/"}
+    },
+    "require": {}
+}
